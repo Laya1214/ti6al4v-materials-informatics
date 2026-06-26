@@ -41,8 +41,29 @@ The models were trained using the script [`training_pipeline.py`](training_pipel
 - **ASTM E112 Grain Size Classification** (Fine / Medium / Coarse)
 - **Interactive Visualizations** (Original image vs Grain Boundary Map + Intensity Histogram)
 - **Physically Interpretable** results aligned with **Hall-Petch Relationship**
-- Clean, professional Streamlit UI 
+- Clean, professional Streamlit UI
 
+**Results**
+
+*Fine grain Structure*
+<img width="1910" height="869" alt="image" src="https://github.com/user-attachments/assets/5b974575-44ce-47b9-ae75-5cb5106067f4" />
+<img width="1608" height="906" alt="image" src="https://github.com/user-attachments/assets/73cc0721-6136-4b59-b6b6-eb5867663bc8" />
+<img width="1695" height="640" alt="image" src="https://github.com/user-attachments/assets/2e47bc7c-4ead-46dd-bf9c-fcac15ba3f2f" />
+<img width="1913" height="881" alt="image" src="https://github.com/user-attachments/assets/ce0f75ce-a49f-4b6a-a70a-fcc507495392" />
+<img width="1919" height="896" alt="image" src="https://github.com/user-attachments/assets/6c293b20-b7b6-47c4-adf8-4162988c795d" />
+<img width="1838" height="729" alt="image" src="https://github.com/user-attachments/assets/f9cc624f-a0e2-44b4-be2f-45ef2443bcb6" />
+
+*Coarse grain structure*
+
+<img width="1912" height="894" alt="image" src="https://github.com/user-attachments/assets/6db326d5-9366-472a-8f5b-ed576fbe4bde" />
+<img width="1885" height="883" alt="image" src="https://github.com/user-attachments/assets/dbb7579c-c530-447a-a4fc-c832ba626fcc" />
+<img width="1891" height="834" alt="image" src="https://github.com/user-attachments/assets/64baa683-cc57-4fc0-8b09-940d63382860" />
+
+*Medium grain structure*
+
+<img width="1895" height="891" alt="image" src="https://github.com/user-attachments/assets/c1766fdd-aff0-4e7a-a9c9-c6d074e16cf4" />
+<img width="1893" height="884" alt="image" src="https://github.com/user-attachments/assets/29b9cb30-db8c-463b-8f89-c9b5c3c6ca06" />
+<img width="1909" height="835" alt="image" src="https://github.com/user-attachments/assets/fbdc3d7a-795d-4fd1-9c4f-9b806e8fee26" />
 
 
 ### Quick Start
