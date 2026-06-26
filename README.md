@@ -1,5 +1,5 @@
 
-**Ti-6Al-4V Materials Informatics Portal**
+#### Ti-6Al-4V Materials Informatics Portal
 
 *Machine Learning Assisted Microstructure Analysis and Property Prediction* of Ti-6Al-4V Titanium Alloy
 
@@ -64,7 +64,7 @@ Feel free to use, modify, and contribute!
 
 
 	
-**Results**
+### Results
 
 *Model Performance*
 
