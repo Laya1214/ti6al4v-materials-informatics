@@ -61,6 +61,6 @@ streamlit run app.py
 
 Python • Streamlit • OpenCV • Scikit-learn • Pandas • Matplotlib
 
-**License*
+*License*
 This project is open-sourced under the MIT License.
 Feel free to use, modify, and contribute!
