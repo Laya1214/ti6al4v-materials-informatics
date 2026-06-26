@@ -30,9 +30,9 @@ The models were trained using the script [`training_pipeline.py`](training_pipel
 | Fine     | 0.97      | 0.94   | 0.96     | 115     |
 | Medium   | 0.60      | 0.69   | 0.64     | 26      |
 
-<img width="1538" height="665" alt="image" src="https://github.com/user-attachments/assets/59b57999-13d4-4574-8752-ade2a3e1fc74" />
-<img width="1077" height="475" alt="Screenshot 2026-06-26 153809" src="https://github.com/user-attachments/assets/4b211f4f-6f84-486b-b3a4-241b9c2074e5" />
 
+<img width="1077" height="475" alt="Screenshot 2026-06-26 153809" src="https://github.com/user-attachments/assets/4b211f4f-6f84-486b-b3a4-241b9c2074e5" />
+<img width="1538" height="665" alt="image" src="https://github.com/user-attachments/assets/59b57999-13d4-4574-8752-ade2a3e1fc74" />
 
  **Key Features**
 
