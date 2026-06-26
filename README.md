@@ -1,3 +1,5 @@
+<img width="1538" height="665" alt="image" src="https://github.com/user-attachments/assets/59b57999-13d4-4574-8752-ade2a3e1fc74" />
+<img width="1077" height="475" alt="Screenshot 2026-06-26 153809" src="https://github.com/user-attachments/assets/4b211f4f-6f84-486b-b3a4-241b9c2074e5" />
 **Ti-6Al-4V Materials Informatics Portal**
 
 *Machine Learning Assisted Microstructure Analysis and Property Prediction* of Ti-6Al-4V Titanium Alloy
