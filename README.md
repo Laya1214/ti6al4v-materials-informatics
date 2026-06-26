@@ -30,10 +30,6 @@ The models were trained using the script [`training_pipeline.py`](training_pipel
 | Fine     | 0.97      | 0.94   | 0.96     | 115     |
 | Medium   | 0.60      | 0.69   | 0.64     | 26      |
 
-
-<img width="1077" height="475" alt="Screenshot 2026-06-26 153809" src="https://github.com/user-attachments/assets/4b211f4f-6f84-486b-b3a4-241b9c2074e5" />
-<img width="1538" height="665" alt="image" src="https://github.com/user-attachments/assets/59b57999-13d4-4574-8752-ade2a3e1fc74" />
-
  **Key Features**
 
 - **Real-time SEM Analysis** with advanced preprocessing (Bilateral Filter + CLAHE + Canny Edge)
@@ -43,7 +39,40 @@ The models were trained using the script [`training_pipeline.py`](training_pipel
 - **Physically Interpretable** results aligned with **Hall-Petch Relationship**
 - Clean, professional Streamlit UI
 
+
+  ### Quick Start
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/Laya1214/ti6al4v-materials-informatics.git
+cd ti6al4v-materials-informatics
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Run the app
+streamlit run app.py
+
+```
+**Technologies Used**
+
+Python • Streamlit • OpenCV • Scikit-learn • Pandas • Matplotlib
+
+*License*
+This project is open-sourced under the MIT License.
+Feel free to use, modify, and contribute!
+
+
+	
 **Results**
+
+*Model Performance*
+
+<img width="1077" height="475" alt="Screenshot 2026-06-26 153809" src="https://github.com/user-attachments/assets/4b211f4f-6f84-486b-b3a4-241b9c2074e5" />
+<img width="1538" height="665" alt="image" src="https://github.com/user-attachments/assets/59b57999-13d4-4574-8752-ade2a3e1fc74" />
+
+
+*Streamlit results*
 
 *Fine grain Structure*
 <img width="1910" height="869" alt="image" src="https://github.com/user-attachments/assets/5b974575-44ce-47b9-ae75-5cb5106067f4" />
@@ -66,24 +95,3 @@ The models were trained using the script [`training_pipeline.py`](training_pipel
 <img width="1909" height="835" alt="image" src="https://github.com/user-attachments/assets/fbdc3d7a-795d-4fd1-9c4f-9b806e8fee26" />
 
 
-### Quick Start
-
-```bash
-# 1. Clone the repository
-git clone https://github.com/Laya1214/ti6al4v-materials-informatics.git
-cd ti6al4v-materials-informatics
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Run the app
-streamlit run app.py
-
-```
-**Technologies Used**
-
-Python • Streamlit • OpenCV • Scikit-learn • Pandas • Matplotlib
-
-*License*
-This project is open-sourced under the MIT License.
-Feel free to use, modify, and contribute!
